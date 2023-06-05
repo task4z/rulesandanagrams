@@ -1,0 +1,19 @@
+{
+  "short_name": "Rules and anagrams",
+  "name": "Rules and anagrams",
+  "icons": [
+    {
+      "src": "/assets/img/favicon.png",
+      "type": "image/png",
+      "sizes": "200x158",
+      "purpose": "any maskable"
+    }
+  ],
+  "id": "/?source=pwa",
+  "start_url": "/?source=pwa",
+  "background_color": "red",
+  "display": "standalone",
+  "scope": "/",
+  "theme_color": "red",
+  "description": "Quando se trata de estabelecer sua presença online, um site profissional é fundamental para o sucesso de qualquer empresa. É aí que entramos em cena - somos especialistas em criar sites personalizados que são eficazes, atraentes e fáceis de usar."
+}
